@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_course/Inkwell.dart';
 // import 'package:flutter_course/TextWidgets.dart';
-import 'package:flutter_course/buttonpage.dart';
-import 'package:flutter_course/imagepage.dart';
+// import 'package:flutter_course/buttonpage.dart';
+// import 'package:flutter_course/imagepage.dart';
+// import 'package:flutter_course/rowandcol.dart';
 // import 'package:flutter_course/homepage.dart';
 
 void main() {
@@ -17,6 +19,6 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(debugShowCheckedModeBanner: false, home:ImagePage());
+    return MaterialApp(debugShowCheckedModeBanner: false, home:InksWell());
   }
 }
