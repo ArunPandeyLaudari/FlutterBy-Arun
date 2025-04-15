@@ -3,7 +3,7 @@ import 'package:flutter_course/Inkwell.dart';
 // import 'package:flutter_course/TextWidgets.dart';
 // import 'package:flutter_course/buttonpage.dart';
 // import 'package:flutter_course/imagepage.dart';
-// import 'package:flutter_course/rowandcol.dart';
+// import3 'package:flutter_course/rowandcol.dart';
 // import 'package:flutter_course/homepage.dart';
 
 void main() {
