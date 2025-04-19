@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_course/cardwidgetpage.dart';
+import 'package:flutter_course/stackwidgetpage.dart';
+// import 'package:flutter_course/ListTilePage.dart';
+// import 'package:flutter_course/circleavatarpage.dart';
 // import 'package:flutter_course/decorationpage.dart';
-import 'package:flutter_course/expandwidpage.dart';
-import 'package:flutter_course/marginpaddingpage.dart';
+// import 'package:flutter_course/expandwidpage.dart';
+// import 'package:flutter_course/marginpaddingpage.dart';
 // import 'package:flutter_course/listviewpage.dart';
 // import 'package:flutter_course/Inkwell.dart';
 // import 'package:flutter_course/scrollviews.dart';
@@ -25,7 +29,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(debugShowCheckedModeBanner: false,
-     home:Marginpaddingpage(),
+     home:Stackwidgetpage(),
     );
     
     
